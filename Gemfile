@@ -11,7 +11,6 @@ gem 'haml'
 gem 'haml-rails'
 gem 'devise'
 gem 'simple_form'
-gem 'mysql2'
 gem 'therubyracer'
 gem "paperclip", "~> 2.4"
 gem "friendly_id", "~> 4.0.0.beta14"
