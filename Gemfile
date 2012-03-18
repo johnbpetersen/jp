@@ -14,6 +14,8 @@ gem 'simple_form'
 gem 'therubyracer'
 gem "paperclip", "~> 2.4"
 gem "friendly_id", "~> 4.0.0.beta14"
+gem 'forem', :git => "git://github.com/radar/forem.git"
+gem 'will_paginate'
 
 # Gems used only for assets and not required
 # in production environments by default.

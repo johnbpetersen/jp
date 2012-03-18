@@ -1,9 +1,10 @@
 Jp::Application.routes.draw do
+  mount Forem::Engine, :at => "/forums"
   
   get "pages/home"
 
   devise_for :users
-
+  
   root :to => "pages#home"
   
   # The priority is based upon order of creation:
