@@ -1,4 +1,10 @@
 GIT
+  remote: git://github.com/radar/forem-theme-twist.git
+  revision: 9d0c482335449ac15563c16937d9a528c5807935
+  specs:
+    forem-theme-twist (0.0.1)
+
+GIT
   remote: git://github.com/radar/forem.git
   revision: a646286a48ab0042c4a7bb2365e5246944857019
   specs:
@@ -180,6 +186,7 @@ DEPENDENCIES
   coffee-rails
   devise
   forem!
+  forem-theme-twist!
   friendly_id (~> 4.0.0.beta14)
   haml
   haml-rails

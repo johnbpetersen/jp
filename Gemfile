@@ -16,6 +16,7 @@ gem "paperclip", "~> 2.4"
 gem "friendly_id", "~> 4.0.0.beta14"
 gem 'forem', :git => "git://github.com/radar/forem.git"
 gem 'will_paginate'
+gem 'forem-theme-twist', :git => "git://github.com/radar/forem-theme-twist.git"
 
 # Gems used only for assets and not required
 # in production environments by default.
